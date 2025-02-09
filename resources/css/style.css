@@ -23,7 +23,51 @@ header h1 {
     padding: 10px;
 }
 
-header .download {
+.download {
     color: aquamarine;
     font-size: 1rem;
+}
+
+header video {
+    margin: 1rem auto;
+    display: block;
+}
+
+section {
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-items: center;
+    text-align: center;
+}
+
+section img {
+    margin: 1rem auto;
+}
+
+p {
+    font-size: 1.25rem;
+    padding: 10px;
+    font-size: 1.3125rem;
+    color: grey;
+}
+
+#coming-soon {
+    background-color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    justify-items: center;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 2.625rem;
+    padding: 10px;
+    font-weight: normal;
+}
+
+#copyright {
+    text-align: right;
+    padding: 10px;
 }
